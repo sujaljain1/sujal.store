@@ -16,18 +16,18 @@ export default function Projects() {
         </motion.h1>
         <ul className="grid sm:grid-cols-2 grid-cols-1 gap-4 mt-4">
           <ProjectCard
-            url="https://e-z.host"
-            title="E-Z.Host"
-            description="E-Z.Host is an easy to use and easy to integrate file sharing platform. It has plenty of domain options, tons of URL options, and an extensive embed editor."
+            url="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUyMmgxbWxsdXVtcDF3M2J2cDIwaWhwOW11NDI3a2h2OHI1NXNxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"
+            title="Discord listing bot"
+            description="I'm working on a discord product listing bot for a friend who runs a small buisness on discord :D"
             image="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/bnzq10sh.png"
             delay={0.1}
             gradient="bg-gradient-to-br"
           />
           <ProjectCard
-            url="https://e-z.bio"
-            title="E-Z.Bio"
-            description="E-Z.Bio is a feature rich bio link platform with an easy to use interface and tons of customization options. You can have a full page setup within minutes."
-            image="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/jg8fu2hr.png"
+            url="https://sky.coflnet.com/"
+            title="Minecraft auction house flipper"
+            description="I made a pretty basic mincraft mod that mainly relies on COFL mod which tracks skyblock auction house prices through skyblock api."
+            image="https://media.discordapp.net/attachments/1229593033138241650/1230810792341803028/image.png?ex=6634ace0&is=662237e0&hm=2ff0e160662664e66b31bd730efb1fc5ba12e1dc53bd5de25350df660a2d5a8c&=&format=webp&quality=lossless&width=1185&height=622"
             delay={0.2}
             gradient="bg-gradient-to-bl"
           />
