@@ -16,10 +16,10 @@ export default function Projects() {
         </motion.h1>
         <ul className="grid sm:grid-cols-2 grid-cols-1 gap-4 mt-4">
           <ProjectCard
-            url="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUyMmgxbWxsdXVtcDF3M2J2cDIwaWhwOW11NDI3a2h2OHI1NXNxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"
+            url=""
             title="Discord listing bot"
             description="I'm working on a discord product listing bot for a friend who runs a small buisness on discord :D"
-            image="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/bnzq10sh.png"
+            image="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRkOHkxazd1dnVrMjduNDNrZGI2aHQ0YWMxYjQ2em9rOHU5ZWkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"
             delay={0.1}
             gradient="bg-gradient-to-br"
           />
