@@ -1,7 +1,6 @@
 # My personal site
 
-I use this site to show off what I am currently working on, and some of my interests.
+This is aidens website i just made it mine because why not, you can go checkout his website at aiden.gg
 
-I will not be helping people set this up. If you don't know how to do it then simply don't bother.
+I could help you set this up to some extent :D
 
-![Logo](https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/lbo1x6wn.png)
